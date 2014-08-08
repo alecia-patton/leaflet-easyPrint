@@ -1,6 +1,6 @@
 
 .leaflet-control-easyPrint a {
-  background:#fff url(print.png) no-repeat 5px;
+  background:#fff url(https://cdn.rawgit.com/alecia-patton/leaflet-easyPrint/gh-pages/dist/print.png) no-repeat 5px;
   background-size:16px 16px;
   display: block;
   }
